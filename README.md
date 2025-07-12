@@ -1,11 +1,6 @@
 # Another Stupid Balatro Mod
-welcome to Another Stupid Balatro Mod in this mod you will find many interesting Jokers and others that look like crap. This mod contains 54 new Jokers
+welcome to Another Stupid Balatro Mod in this mod you will find many interesting Jokers and others that look like crap. This mod contains 61 new Jokers
 (some other Joker is based on Spanish jokes)
-- 23 Common Jokers
-- 11 Uncommon Jokers
-- 16 Rare Jokers
-- 4 Legendary Jokers
-
 
 THIS MOD WAS CREATED THROUGH [JOKER FORGE](https://jokerforge.jaydchw.com/overview)
 
