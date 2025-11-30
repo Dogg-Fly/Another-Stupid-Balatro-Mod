@@ -1,0 +1,19 @@
+{
+  "id": "anotherstupidbalatromod",
+  "name": "Another Stupid Balatro Mod",
+  "author": [
+    "Doggfly"
+  ],
+  "description": "idk bro just play my mod ",
+  "prefix": "shit",
+  "main_file": "main.lua",
+  "version": "4.2",
+  "priority": -9900,
+  "badge_colour": "501457",
+  "badge_text_colour": "bd80c4",
+  "display_name": "ASBM",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1016c)",
+    "Talisman (>=2.6)"
+  ]
+}
